@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/pc-engine/cyber-knight)**.
+
 Traducción al **español de España** de *Cyber Knight* (サイバーナイト, PC Engine,
 1990), el RPG de ciencia ficción de Tonkin House con guion de Group SNE, que nunca
 salió de Japón. La tripulación de la nave SS Swordfish, perdida tras un salto
